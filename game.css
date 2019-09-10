@@ -1,0 +1,15 @@
+.bb {
+    font-size: 40px;
+    font-family: 'Aldrich';
+    background-color: #4D00B2;
+    cursor: pointer;
+    border: 4px solid #CC0033;
+    color:rgb(234, 235, 232);
+    border-radius: 15px;
+    margin-top: 43%;
+    margin-left: 45%;
+}
+a{
+    color:rgb(234, 235, 232);
+    text-decoration: none;
+}
